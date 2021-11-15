@@ -27,7 +27,7 @@ Upload your Hass.io backups to Dropbox.
 
 [:books: Dropbox Sync add-on documentation][addon-dropbox-sync]
 
-[addon-dropbox-sync]: https://github.com/danielwelch/hassio-dropbox-sync
+[addon-dropbox-sync]: https://github.com/nbaerts/hassio-dropbox-sync
 [dropbox-sync-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg?style=flat
 [dropbox-sync-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg?style=flat
 [dropbox-sync-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg?style=flat
